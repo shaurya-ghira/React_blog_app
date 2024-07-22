@@ -6,7 +6,7 @@
 
 html {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  background-color: white;
+  background-image: linear-gradient(to bottom, #ffffff, #e1f5ff, #9ef3ff, #3bf2f8, #12ebb9);
   color: #000;
 }
 
@@ -23,12 +23,14 @@ select {
   margin-bottom: 1em;
 }
 
+
+
 header {
   padding: 1rem;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  background-color: purple;
+  background-image: linear-gradient(to left, #33f4f1, #00e5f4, #00d5f5, #00c4f2, #12b3eb);
   color: whitesmoke;
   position: sticky;
   top: 0;
